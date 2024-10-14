@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Tai</h1>
 <h3 align="center">A passionate Full-stack Developer from Viet Nam</h3>
-<img align="right" height="700" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" height="600" width ="600" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttai204&label=Profile%20views&color=0e75b6&style=flat" alt="ttai204" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
